@@ -1,24 +1,4 @@
-# README
+# Ruby On Rails Starter 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Install rails by the following command `gem install rails -v 5.1.4` 
+* To run the Application `bundle install` and `rails server`
